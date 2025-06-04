@@ -1,20 +1,10 @@
 <div align="center">
-  <h1> Lettering <img src="레터링 메인 이미지 아이콘" height="35">
+  <h1> Lettering
   </h1>
 
 </div>
 
-> 배포 링크 <br /> > **https://letterring.shop/**
-
-[장표표지.pdf](%EC%9E%A5%ED%91%9C%ED%91%9C%EC%A7%80.pdf)
-
-![제목을-입력해주세요_-001.jpg](%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.jpg)
-
-> 배포 링크
->
-> [**https://letterring.shop/**](https://letterring.shop/)
-
-[figma](https://www.figma.com/design/MfCRRB3bWLgo4YMorH7M4U/%EC%A1%B8%EC%9E%91_%EB%94%94%EC%9E%90%EC%9D%B8?node-id=438-1940&t=iFzQIb6C351DL0Wr-0)   |
+[figma](https://www.figma.com/design/MfCRRB3bWLgo4YMorH7M4U/%EC%A1%B8%EC%9E%91_%EB%94%94%EC%9E%90%EC%9D%B8?node-id=438-1940&t=iFzQIb6C351DL0Wr-0)
 
 ## **📄 목차**
 
